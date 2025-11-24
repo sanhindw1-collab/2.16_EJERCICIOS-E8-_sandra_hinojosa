@@ -1,2 +1,6 @@
 Archivo 1 de la rama
+<<<<<<< HEAD
 Línea añadida en master
+=======
+Líneas adicionales en rama1
+>>>>>>> sandra_hinojosa_rama
